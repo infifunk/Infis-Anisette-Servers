@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "Infi's Anisette Server",
+      "address": "https://anisette-v3-server-latest-seus.onrender.com"
+    }
+  ]
+}
